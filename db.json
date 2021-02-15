@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "two"
+    },
+    {
+      "id": 3,
+      "title": "four minus one"
+    },
+  ],
+  "user": {
+    "name": "defy"
+  }
+}
